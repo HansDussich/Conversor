@@ -5,3 +5,7 @@
 <br></br>
 
 ![Captura de pantalla 2023-06-21 141918](https://github.com/HansDussich/Conversor/assets/81448184/22b526e4-44ef-4c26-87f9-869a68e1602e)
+
+<br></br>
+
+![Captura de pantalla 2023-06-21 142038](https://github.com/HansDussich/Conversor/assets/81448184/cc191091-4469-4380-953b-d305194da230)
